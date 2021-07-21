@@ -1,0 +1,17 @@
+.info__wrapper {
+}
+.info {
+    padding: 5rem 0;
+}
+
+@media screen and (min-width: 1024px)  {
+    .info .img {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+
